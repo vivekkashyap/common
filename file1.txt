@@ -1,0 +1,10 @@
+First commit in common repository
+
+more commit
+
+more and more
+
+Added a new file while realease branch is seprate
+to know
+how to resolve conflict
+and to create a situation
