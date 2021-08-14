@@ -16,3 +16,7 @@ jsfjk
 
 
 jfdngkjnfd
+Added a new file while realease branch is seprate
+to know
+how to resolve conflict
+and to create a situation
